@@ -1,3 +1,4 @@
+```
 ----------------------------
 ====--- SuperInspect ---====
 ======---- V 1.192 ----=====
@@ -178,4 +179,5 @@ NEW:
 -The feedback has been great!  I'm working on a feature list that I'd like to add including percentage for honor, saving item info (when you lose your target), item bonus sums and lots more options.  Thanks everyone!
 
 01/26/06 - v1.0
--Released 
+-Released
+```
