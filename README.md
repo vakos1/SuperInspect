@@ -1,3 +1,5 @@
+WoW Vanilla 1.12.1 addon - Continue inspecting even if you've lost your target and many more new features.
+
 ```
 ----------------------------
 ====--- SuperInspect ---====
